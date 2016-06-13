@@ -21,3 +21,5 @@ Features
 - Rating system (RRL) Show number of reviews, show different, tags, 
 - report this rating feature
 - Point system for the reviewers
+
+Thomas Tiam Lee :)
